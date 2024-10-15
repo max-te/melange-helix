@@ -1,6 +1,7 @@
 # Melange Light
-# Author: Dimitris Dimitropoulos <dimitris.dimitropoulos00@gmail.com>
-# Author's github: <https://github.com/DimitrisDimitropoulos>
+# Adapted from Melange (Dark) by
+# Original Author: Dimitris Dimitropoulos <dimitris.dimitropoulos00@gmail.com>
+# Original Author's github: <https://github.com/DimitrisDimitropoulos>
 # This theme is a port of the "melange-nvim" colorscheme https://github.com/savq/melange-nvim
 
 "ui.background" = { bg = "a_bg" }
